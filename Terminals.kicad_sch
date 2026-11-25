@@ -3011,6 +3011,12 @@
 					(unit 1)
 				)
 			)
+			(project "Ethernet Switch"
+				(path "/a0f50929-cd55-4a7d-a094-4cb143d9a33f/64a7affe-df0e-4479-96f7-774ad6e0563f"
+					(reference "J2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(sheet_instances
@@ -3018,5 +3024,4 @@
 			(page "1")
 		)
 	)
-	(embedded_fonts no)
 )
